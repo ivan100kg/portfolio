@@ -1,2 +1,2 @@
 # Portfolio-page
-HTML/CSS
+This is my portfolio web-page.
